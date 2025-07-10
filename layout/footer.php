@@ -144,6 +144,7 @@
   // Page specific JS
   if (isset($page_js)) {
     echo $page_js;
+    
   }
 ?>
 <!--custom functions and script-->

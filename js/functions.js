@@ -66,7 +66,7 @@ jQuery($=> {
             };
 
             //Ajax post data to server
-            $.post('contact.php', postData, function (response) {
+            $.post('contact-send.php', postData, function (response) {
                 //load json data from server and output message
                 if (response.type === 'error') {
                     output = '<div class="alert-danger" style="padding:10px; margin-bottom:25px;">' + response.text + '</div>';

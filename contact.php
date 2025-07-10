@@ -6,6 +6,7 @@ $page_title = "Contact Us - DryVeggie";
 /*$page_js = '
 <script defer src="https://maps.googleapis.com/maps/api/js?key=key=AIzaSyAgIfLQi8KTxTJahilcem6qHusV-V6XXjw"></script>
 <script defer src="js/map.js"></script>';*/
+
 include 'layout/header-page.php'; ?>
 
   <!--Page Header-->
@@ -56,26 +57,29 @@ include 'layout/header-page.php'; ?>
                 <!-- Centered Form -->
                 <div class="col-md-6 col-sm-8">
                     <div class="heading-title wow fadeInUp" data-wow-delay="300ms">
-                        <form class="getin_form wow fadeInUp" data-wow-delay="400ms" onsubmit="return false;">
+                        <form class="getin_form wow fadeInUp" data-wow-delay="400ms" id="contactForm">
                             <div class="row px-2">
                                 <div class="col-md-12 col-sm-12" id="result1"></div>
                                 <div class="col-md-12 col-sm-12">
                                     <div class="form-group">
+                                        
                                         <input class="form-control" id="name1" type="text" placeholder="Name:" required name="userName">
                                     </div>
                                 </div>
                                 <div class="col-md-12 col-sm-12">
                                     <div class="form-group">
-                                        <input class="form-control" type="email" id="email1" placeholder="Email:" name="email">
+                                        <input class="form-control" type="email" id="email1" placeholder="Email:" name="email1">
                                     </div>
                                 </div>
                                 <div class="col-md-12 col-sm-12">
                                     <div class="form-group">
-                                        <textarea class="form-control" id="message1" placeholder="Message:" required name="message"></textarea>
+                                        <textarea class="form-control" id="message1" placeholder="Message:" required name="message1"></textarea>
                                     </div>
                                 </div>
                                 <div class="col-md-12 col-sm-12">
-                                    <button type="submit" id="submit_btn1" class="button gradient-btn w-100">Send</button>
+                                    <button type="button" id="submit_btn1" class="button gradient-btn w-100">Send</button>
+                                   
+
                                 </div>
                             </div>
                         </form>
@@ -135,5 +139,5 @@ include 'layout/header-page.php'; ?>
 <!-- map end -->
 
 <!-- Contact US ends -->
- 
+
  <?php include 'layout/footer.php'; ?>

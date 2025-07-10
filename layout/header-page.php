@@ -144,14 +144,14 @@ $currentPage = basename($_SERVER['PHP_SELF']);
                     </li>
                     
                     
-                     <li class="nav-item"><a class="nav-link <?= ($currentPage == 'catalogue.php') ? 'active' : '' ?>" href="assets/DryVeggie.pdf" target="__BLANK">Catalogue</a>Catalogue</a></li>
+                     <li class="nav-item"><a class="nav-link <?= ($currentPage == 'catalogue.php') ? 'active' : '' ?>" href="assets/DryVeggie.pdf" target="__BLANK">Catalogue</a></li>
                 </ul>
             </nav>
             <div class="side-footer w-100">
                 <ul class="social-icons-simple white top40">
                     <li><a href="https://www.facebook.com/people/DryVeggie/61558993462982/?mibextid=ZbWKwL" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                     <li><a href="https://www.linkedin.com/company/dryveggie/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-                    <li><a href="https://www.instagram.com/dryveggie" target="_blank"></i></a></li>
+                    <li><a href="https://www.instagram.com/dryveggie" target="_blank"><i class="fab fa-instagram"></i></a></li>
                 </ul>
                 <p class="whitecolor">&copy; <span id="year"></span> Trax. Made With Love by ThemesIndustry</p>
             </div>
