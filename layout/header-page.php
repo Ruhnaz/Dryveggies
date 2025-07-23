@@ -8,7 +8,8 @@ $currentPage = basename($_SERVER['PHP_SELF']);
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title><?php echo $page_title; ?></title>
-   
+   <meta name="description" content="DryVeggie - Your trusted partner for high-quality dry vegetables, fruits, and dehydrated food products. Specializing in export and import solutions. Discover our range of healthy, nutritious, and convenient dry produce.">
+
      <link href="image/favicon.ico" rel="icon">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/all.min.css">
@@ -17,9 +18,19 @@ $currentPage = basename($_SERVER['PHP_SELF']);
     <link rel="stylesheet" href="css/jquery.fancybox.min.css">
     <link rel="stylesheet" href="css/tooltipster.min.css">
     <link rel="stylesheet" href="css/cubeportfolio.min.css">
-    <link rel="stylesheet" href="css/revolution/navigation.css">
+    
+ <link rel="stylesheet" href="css/revolution/navigation.css">
     <link rel="stylesheet" href="css/revolution/settings.css">
-    <link rel="stylesheet" href="css/style_updated.css">
+
+
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800|Open+Sans:300,400,600,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+    
+      
 </head>
 <body>
 <!--PreLoader-->
@@ -35,8 +46,8 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 
             <!-- Logo -->
             <a class="navbar-brand" href="index.php">
-                <img src="image/wkbg.png" alt="logo" class="logo-default" style="width: 217px;">
-                <img src="image/wkbg.png" alt="logo" class="logo-scrolled">
+                <img src="image/wkbg.png" alt="logo" class="logo-default" style="width: 217px;" loading="lazy">
+                <img src="image/wkbg.png" alt="logo" class="logo-scrolled" loading="lazy">
             </a>
 
             <!-- Navigation -->
@@ -50,7 +61,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
                     </li>
 
                     <li class="nav-item dropdown static">
-                        <a class="nav-link dropdown-toggle" href="javascript:void(0)" data-bs-toggle="dropdown">Products</a>
+                        <a class="nav-link dropdown-toggle" href="javascript:void(0)" data-bs-toggle="dropdown" >Products</a>
                         <ul class="dropdown-menu megamenu">
                             <li>
                                 <div class="container">
@@ -83,14 +94,14 @@ $currentPage = basename($_SERVER['PHP_SELF']);
                      
                 </ul>
                 <ul class="social-icons social-icons-simple d-lg-inline-block d-none animated fadeInUp me-1" data-wow-delay="300ms">
-                    <li><a href="https://www.facebook.com/people/DryVeggie/61558993462982/?mibextid=ZbWKwL" target="_blank"><i class="fab fa-facebook-f"></i> </a> </li>
-                    <li><a href="https://www.linkedin.com/company/dryveggie/" target="_blank"><i class="fab fa-linkedin-in"></i> </a> </li>
-                    <li><a href="https://www.instagram.com/dryveggie" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="https://www.facebook.com/people/DryVeggie/61558993462982/?mibextid=ZbWKwL" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i> </a> </li>
+                    <li><a href="https://www.linkedin.com/company/dryveggie/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i> </a> </li>
+                    <li><a href="https://www.instagram.com/dryveggie" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a></li>
                 </ul>
             </div>
 
             <!--side menu open button-->
-            <a href="javascript:void(0)" class="d-inline-block sidemenu_btn" id="sidemenu_toggle">
+            <a href="javascript:void(0)" class="d-inline-block sidemenu_btn" id="sidemenu_toggle" aria-label="Open Side Menu">
                 <span class="gradient-bg"></span>
                 <span class="gradient-bg"></span>
                 <span class="gradient-bg"></span>
@@ -149,9 +160,9 @@ $currentPage = basename($_SERVER['PHP_SELF']);
             </nav>
             <div class="side-footer w-100">
                 <ul class="social-icons-simple white top40">
-                    <li><a href="https://www.facebook.com/people/DryVeggie/61558993462982/?mibextid=ZbWKwL" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                    <li><a href="https://www.linkedin.com/company/dryveggie/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-                    <li><a href="https://www.instagram.com/dryveggie" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="https://www.facebook.com/people/DryVeggie/61558993462982/?mibextid=ZbWKwL" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                    <li><a href="https://www.linkedin.com/company/dryveggie/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li><a href="https://www.instagram.com/dryveggie" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a></li>
                 </ul>
                 <p class="whitecolor">&copy; <span id="year"></span> Trax. Made With Love by ThemesIndustry</p>
             </div>

@@ -6999,7 +6999,7 @@ ul.latest_news li a:focus+span.defaultcolor {
     -webkit-background-size: cover;
     background-size: cover;*/
 
-    background: url(../image/glimp.jpg) no-repeat center center;
+     /* background: url(../image/glimp.jpg) no-repeat center center;
   background-size: cover;
   background-attachment: scroll; /* ensures compatibility on mobile */
   background-repeat: no-repeat;

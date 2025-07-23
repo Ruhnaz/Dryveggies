@@ -8,7 +8,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title><?php echo $page_title; ?></title>
-    
+    <meta name="description" content="DryVeggie - Your trusted partner for high-quality dry vegetables, fruits, and dehydrated food products. Specializing in export and import solutions. Discover our range of healthy, nutritious, and convenient dry produce.">
+
     <link href="image/favicon.ico" rel="icon">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/all.min.css">
@@ -19,7 +20,15 @@
     <link rel="stylesheet" href="css/cubeportfolio.min.css">
     <link rel="stylesheet" href="css/revolution/navigation.css">
     <link rel="stylesheet" href="css/revolution/settings.css">
-    <link rel="stylesheet" href="css/style_updated.css">
+
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preload" as="image" href="/image/tombann.jpg">
+    <link rel="preload" as="image" href="/image/ginger.jpg">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800|Open+Sans:300,400,600,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    
+    
 </head>
 <body>
 <!--PreLoader-->
@@ -56,8 +65,8 @@
 
       <!-- Logo -->
       <a class="navbar-brand" href="index.php">
-        <img src="image/wkbg.png" alt="logo" class="logo-default" style="width: 218px;">
-        <img src="image/wkbg.png" alt="logo" class="logo-scrolled">
+        <img src="image/wkbg.png" alt="logo" class="logo-default" style="width: 218px;" loading="lazy">
+        <img src="image/wkbg.png" alt="logo" class="logo-scrolled" loading="lazy">
       </a>
 
       <!-- Navigation -->
@@ -92,23 +101,23 @@
               </li>
             </ul>
           </li>
-
+          
           <li class="nav-item"><a class="nav-link <?= ($currentPage == 'contact.php' || $currentPage == 'contact.html') ? 'active' : '' ?>" href="contact.php">Contact</a></li>
           <li class="nav-item"><a class="nav-link " href="assets/DryVeggie.pdf" target="__BLANK">Catalogue</a></li>
         </ul>
        <ul class="social-icons social-icons-simple d-lg-inline-block d-none animated fadeInUp me-1" data-wow-delay="300ms">
                 
        
-       <li><a href="https://www.facebook.com/people/DryVeggie/61558993462982/?mibextid=ZbWKwL" target="_blank"><i class="fab fa-facebook-f"></i> </a> </li>
+       <li><a href="https://www.facebook.com/people/DryVeggie/61558993462982/?mibextid=ZbWKwL" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i> </a> </li>
                 
                 
-       <li><a href="https://www.linkedin.com/company/dryveggie/" target="_blank"><i class="fab fa-linkedin-in"></i> </a> </li>
-            <li><a href="https://www.instagram.com/dryveggie" target="_blank"><i class="fab fa-instagram"></i></a></li>
+       <li><a href="https://www.linkedin.com/company/dryveggie/" target="_blank"><i class="fab fa-linkedin-in" aria-label="LinkedIn"></i> </a> </li>
+            <li><a href="https://www.instagram.com/dryveggie" target="_blank"><i class="fab fa-instagram" aria-label="Instagram"></i></a></li>
       </ul>
       </div>
   
       <!-- Side menu open button -->
-      <a href="javascript:void(0)" class="d-inline-block sidemenu_btn" id="sidemenu_toggle">
+      <a href="javascript:void(0)" class="d-inline-block sidemenu_btn" id="sidemenu_toggle" aria-label="Open Side Menu">
         <span class="gradient-bg"></span>
         <span class="gradient-bg"></span>
         <span class="gradient-bg"></span>
@@ -160,9 +169,9 @@
 
       <div class="side-footer w-100">
         <ul class="social-icons-simple white top40">
-          <li><a href="https://www.facebook.com/people/DryVeggie/61558993462982/?mibextid=ZbWKwL" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-          <li><a href="https://www.linkedin.com/company/dryveggie/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-          <li><a href="https://www.instagram.com/dryveggie" target="_blank"><i class="fab fa-instagram"></i></a></li>
+          <li><a href="https://www.facebook.com/people/DryVeggie/61558993462982/?mibextid=ZbWKwL" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+          <li><a href="https://www.linkedin.com/company/dryveggie/" target="_blank"><i class="fab fa-linkedin" aria-label="LinkedIn"></i></a></li>
+          <li><a href="https://www.instagram.com/dryveggie" target="_blank"><i class="fab fa-instagram" aria-label="Instagram"></i></a></li>
         </ul>
         <p class="whitecolor">&copy; <span id="year"></span> Trax. Made With Love by ThemesIndustry</p>
       </div>

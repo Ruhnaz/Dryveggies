@@ -7,15 +7,15 @@
       <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="footer_panel padding_bottom_half bottom20">
           <a href="index.html" class="footer_logo bottom25">
-            <img src="image/WK40.jpg" alt="DryVeggie" class="footer-logo">
+            <img src="image/WK40.jpg" alt="DryVeggie" class="footer-logo" loading="lazy">
           </a>
           <p class="whitecolor bottom25">
             "From Nashik to the World: Dry Veggie Delivers Quality and Innovation in Every Bite."
           </p>
           <ul class="social-icons white wow fadeInUp" data-wow-delay="300ms">
-            <li><a href="https://www.facebook.com/people/DryVeggie/61558993462982/?mibextid=ZbWKwL" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-            <li><a href="https://www.linkedin.com/company/dryveggie/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-            <li><a href="https://www.instagram.com/dryveggie" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            <li><a href="https://www.facebook.com/people/DryVeggie/61558993462982/?mibextid=ZbWKwL" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/dryveggie/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a></li>
+            <li><a href="https://www.instagram.com/dryveggie" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a></li>
           </ul>
         </div>
       </div>
@@ -110,21 +110,20 @@
 <script src="js/propper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <!--to view items on reach-->
-<script src="js/jquery.appear.js"></script>
+<script src="js/jquery.appear.js" defer></script>
 <!--Owl Slider-->
-<script src="js/owl.carousel.min.js"></script>
-<!--number counters-->
-<script src="js/jquery-countTo.js"></script>
+<script src="js/owl.carousel.min.js" defer></script>
+
 <!--Parallax Background-->
 <script src="js/parallaxie.js"></script>
 <!--Cubefolio Gallery-->
-<script src="js/jquery.cubeportfolio.min.js"></script>
+<script src="js/jquery.cubeportfolio.min.js" defer></script>
 <!--Fancybox js-->
-<script src="js/jquery.fancybox.min.js"></script>
+<script src="js/jquery.fancybox.min.js" defer></script>
 <!--tooltip js-->
-<script src="js/tooltipster.min.js"></script>
+<script src="js/tooltipster.min.js" defer></script>
 <!--wow js-->
-<script src="js/wow.js"></script>
+<script src="js/wow.js" defer></script>
 <!--Revolution SLider-->
 <script src="js/revolution/jquery.themepunch.tools.min.js"></script>
 <script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
@@ -148,7 +147,7 @@
   }
 ?>
 <!--custom functions and script-->
-<script src="js/functions.js"></script>
-
+<script src="js/functions.js" defer></script>
+<script src="js/main.js"></script>
 </body>
 </html>

@@ -43,7 +43,7 @@
         <div class="col-lg-6 mt-5  wow fadeInLeft" data-wow-delay="300ms">
             <div class="h-100 d-flex align-items-start justify-content-center p-4">
     
-            <img src="image/Dehydrated--Beetroot-Minced.png" alt="Feature Image" class="img-fluid">
+            <img src="image/Dehydrated--Beetroot-Minced.png" alt="Feature Image" class="img-fluid" loading="lazy">
           </div>
         </div>
 
