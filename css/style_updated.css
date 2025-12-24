@@ -1862,11 +1862,14 @@ ul.links li a::before,
         transform: translateY(-2px);
     }
 }
-
+ 
 .navbar-brand {
+    height: 60px; /* same as your logo height */
+    width: auto;
+    overflow: hidden; /* width: 90px; just in case */
     margin: 16px 0;
     padding: 0;
-    width: 90px;
+   
     position: relative;
 }
 
@@ -1890,7 +1893,9 @@ ul.links li a::before,
 }
 
 .navbar-brand>img {
-    width: 100%;
+    /*width: 100%;*/
+   
+  height: auto;
 }
 
 .navbar.fixedmenu .logo-default,
@@ -6999,7 +7004,7 @@ ul.latest_news li a:focus+span.defaultcolor {
     -webkit-background-size: cover;
     background-size: cover;*/
 
-    background: url(../image/glimp.jpg) no-repeat center center;
+     /* background: url(../image/glimp.jpg) no-repeat center center;
   background-size: cover;
   background-attachment: scroll; /* ensures compatibility on mobile */
   background-repeat: no-repeat;
@@ -7245,4 +7250,15 @@ height: 90px;
     font-size: 12px !important;
     color: #808080;
     font-weight: 500 !important;
+}
+
+
+.navbar-brand .logo-default {
+    width: 218px;
+    height: auto;
+    margin-top: -15px;
+}
+.navbar-brand .logo-scrolled {
+    max-width: 150px!important;
+    height: auto;
 }

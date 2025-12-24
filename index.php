@@ -1,4 +1,4 @@
-
+  
 <?php 
 $page_title = "Best Quality Dehydrated Red, White, Pink Onion Powder Exporters from India - Dry Veggie";
 include 'layout/header-main.php'; ?>
@@ -38,7 +38,7 @@ include 'layout/header-main.php'; ?>
 <!--Some Services ends-->
   
 <!--Some Feature -->
-<section id="our-feature" class="single-feature padding_bottom padding_top_half mt-1 mt-lg-n4 mt-md-n3">
+<section id="our-feature" class="single-feature padding_bottom padding_top_half ">
     <div class="container">
         <div class="row d-flex align-items-center">
             <div class="col-lg-6 col-md-7 col-sm-7 text-sm-start text-center wow fadeInLeft" data-wow-delay="300ms">
@@ -50,13 +50,13 @@ include 'layout/header-main.php'; ?>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
                  
-                 <div class="image"><img alt="SEO" src="image/3404.jpg" class="square-img"></div>
+                 <div class="image"><img alt="SEO" src="image/3404.webp" class="square-img"  width="800" height="800" loading="lazy"></div>
             </div>
         </div>
     </div>
 </section>
 <!--Some Feature ends-->
-<!-- Portfolio Section -->
+
 <!-- Portfolio Section -->
 <section id="portfolio" class="portfolio padding">
   <div class="container">
@@ -72,7 +72,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4 col-md-6 portfolio-item wow fadeIn" data-wow-delay="300ms">
         <div class="portfolio-wrap">
           <a href="dehydrated-beetroot-powder.php">
-            <img src="image/Dehydrated-beetroot-Powder.png" class="img-fluid" alt="">
+            <img src="image/Dehydrated-beetroot-Powder.png" class="img-fluid" alt="" loading="lazy">
             <div class="portfolio-info">
               <h4>Dehydrated Beetroot Powder</h4>
             </div>
@@ -84,7 +84,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4 col-md-6 portfolio-item wow fadeIn" data-wow-delay="400ms">
         <div class="portfolio-wrap">
           <a href="dehydrated-red-white-pink-onion-powder.php">
-            <img src="image/PINK-ONION-POWDER.png" class="img-fluid" alt="">
+            <img src="image/PINK-ONION-POWDER.png" class="img-fluid" alt="" loading="lazy">
             <div class="portfolio-info">
               <h4>Dehydrated Red, White, Pink Onion Powder</h4>
             </div>
@@ -96,7 +96,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4 col-md-6 portfolio-item wow fadeIn" data-wow-delay="500ms">
         <div class="portfolio-wrap">
           <a href="dehydrated-green-chilli-powder.php">
-            <img src="image/Dehydrated-Green-Chilli-Powder.png" class="img-fluid" alt="">
+            <img src="image/Dehydrated-Green-Chilli-Powder.png" class="img-fluid" alt="" loading="lazy">
             <div class="portfolio-info">
               <h4>Dehydrated Green Chilli Powder</h4>
             </div>
@@ -108,7 +108,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4 col-md-6 portfolio-item wow fadeIn" data-wow-delay="300ms">
         <div class="portfolio-wrap">
           <a href="dehydrated-red-white-onion-flakes.php">
-            <img src="image/RED-ONIOnFLAKES.png" class="img-fluid" alt="">
+            <img src="image/RED-ONIOnFLAKES.png" class="img-fluid" alt="" loading="lazy">
             <div class="portfolio-info">
               <h4>Dehydrated Red, White Onion Flakes</h4>
             </div>
@@ -120,7 +120,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4 col-md-6 portfolio-item wow fadeIn" data-wow-delay="400ms">
         <div class="portfolio-wrap">
           <a href="dehydrated-onion-fried-flakes.php">
-            <img src="image/Dehydrated-Onion-Fried-Flakes.png" class="img-fluid" alt="">
+            <img src="image/Dehydrated-Onion-Fried-Flakes.png" class="img-fluid" alt="" loading="lazy">
             <div class="portfolio-info">
               <h4>Dehydrated Onion Fried Flakes</h4>
             </div>
@@ -132,7 +132,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4 col-md-6 portfolio-item wow fadeIn" data-wow-delay="500ms">
         <div class="portfolio-wrap">
           <a href="dehydrated-green-chilli-flakes.php">
-            <img src="image/Dehydrated-GreenChilli-Flakes.png" class="img-fluid" alt="">
+            <img src="image/Dehydrated-GreenChilli-Flakes.png" class="img-fluid" alt="" loading="lazy">
             <div class="portfolio-info">
               <h4>Dehydrated Green Chilli Flakes</h4>
             </div>
@@ -144,7 +144,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4 col-md-6 portfolio-item wow fadeIn" data-wow-delay="300ms">
         <div class="portfolio-wrap">
           <a href="dehydrated-beetroot-minced.php">
-            <img src="image/Dehydrated--Beetroot-Minced.png" class="img-fluid" alt="">
+            <img src="image/Dehydrated--Beetroot-Minced.png" class="img-fluid" alt="" loading="lazy">
             <div class="portfolio-info">
               <h4>Dehydrated Beetroot Minced</h4>
             </div>
@@ -156,7 +156,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4 col-md-6 portfolio-item wow fadeIn" data-wow-delay="400ms">
         <div class="portfolio-wrap">
           <a href="dehydrated-garlic-powder.php">
-            <img src="image/Dehydrated-GarlicPowder.png" class="img-fluid" alt="">
+            <img src="image/Dehydrated-GarlicPowder.png" class="img-fluid" alt="" loading="lazy">
             <div class="portfolio-info">
               <h4>Dehydrated Garlic Powder</h4>
             </div>
@@ -168,7 +168,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4 col-md-6 portfolio-item wow fadeIn" data-wow-delay="500ms">
         <div class="portfolio-wrap">
           <a href="dehydrated-ginger-powder.php">
-            <img src="image/Dehydrated-Ginger-Powder.png" class="img-fluid" alt="">
+            <img src="image/Dehydrated-Ginger-Powder.png" class="img-fluid" alt="" loading="lazy">
             <div class="portfolio-info">
               <h4>Dehydrated Ginger Powder</h4>
             </div>
@@ -180,7 +180,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4 col-md-6 portfolio-item wow fadeIn mx-auto" data-wow-delay="300ms">
         <div class="portfolio-wrap">
           <a href="dehydrated-tomato-powder.php">
-            <img src="image/Dehydrated-tomato-Powder.png" class="img-fluid" alt="">
+            <img src="image/Dehydrated-tomato-Powder.png" class="img-fluid" alt="" loading="lazy">
             <div class="portfolio-info">
               <h4>Dehydrated Tomato Powder</h4>
             </div>
@@ -343,9 +343,10 @@ include 'layout/header-main.php'; ?>
 
     </div>
   </div>
-</section>
+</section>  
 <!-- =================== Glimpse Section Starts =================== -->
-<section id="our-glimps" class="padding bg-glimps">
+
+  <section id="our-glimps" class="padding bg-glimps" data-background-src="image/glimp.jpg">
     <div class="overlay overlay-dark opacity-2"></div>
     <div class="container glimps">
 
@@ -358,7 +359,7 @@ include 'layout/header-main.php'; ?>
         <div class="row align-items-center text-center">
 
             <div class="col-lg-3 col-md-6 col-sm-6 bottom10 mb-4 wow fadeInUp" data-wow-delay="300ms">
-                <img src="image/14.png" alt="Icon" style="width: 80px;">
+                <img src="image/14.png" alt="Icon" style="width: 80px;" loading="lazy">
                 <div class="whitecolor bottom10">
                     <h3 class="font-medium whitecolor top20">Establishment Year</h3>
                 </div>
@@ -366,7 +367,7 @@ include 'layout/header-main.php'; ?>
             </div>
 
             <div class="col-lg-3 col-md-6 col-sm-6 bottom10 mb-4 wow fadeInUp" data-wow-delay="400ms">
-                <img src="image/15.png" alt="Icon" style="width: 80px;">
+                <img src="image/15.png" alt="Icon" style="width: 80px;" loading="lazy">
                 <div class="whitecolor top10 bottom10">
                     <h3 class="font-medium whitecolor top20">CEO</h3>
                 </div>
@@ -374,7 +375,7 @@ include 'layout/header-main.php'; ?>
             </div>
 
             <div class="col-lg-3 col-md-6 col-sm-6 bottom10 mb-4 wow fadeInUp" data-wow-delay="500ms">
-                <img src="image/12.png" alt="Icon" style="width: 80px;">
+                <img src="image/12.png" alt="Icon" style="width: 80px;" loading="lazy">
                 <div class="whitecolor top10 bottom10">
                     <h3 class="font-medium whitecolor top20">GST</h3>
                 </div>
@@ -382,7 +383,7 @@ include 'layout/header-main.php'; ?>
             </div>
 
             <div class="col-lg-3 col-md-6 col-sm-6 bottom10 mb-4 wow fadeInUp" data-wow-delay="600ms">
-                <img src="image/16.png" alt="Icon" class="rotate-image" style="width: 80px;">
+                <img src="image/16.png" alt="Icon" class="rotate-image" style="width: 80px;" loading="lazy">
                 <div class="whitecolor top10 bottom10">
                     <h3 class="font-medium whitecolor top20">Business</h3>
                 </div>
@@ -402,7 +403,7 @@ include 'layout/header-main.php'; ?>
       <!-- Left Image Column with Animation -->
       <div class="col-lg-6 mb-4 mb-lg-0">
         <div class="h-100 d-flex align-items-center justify-content-center p-3 wow fadeInLeft" data-wow-delay="300ms">
-          <img src="image/whychooseus.jpg" alt="Feature Image" class="img-fluid">
+          <img src="image/whychooseus.jpg" alt="Feature Image" class="img-fluid" loading="lazy">
         </div>
       </div>
 
@@ -419,19 +420,19 @@ include 'layout/header-main.php'; ?>
           <!-- Feature List -->
           <ul class="list-unstyled">
             <li class="d-flex align-items-start mb-3 wow fadeInRight" data-wow-delay="500ms">
-              <img src="image/tick.png" alt="Check" class="me-3" style="width: 24px; height: 24px;">
+              <img src="image/tick.png" alt="Check" class="me-3" style="width: 24px; height: 24px;" loading="lazy">
               <p><span class="darkcolor">Innovation:</span> Our state-of-the-art dehydration processes ensure the best quality and longest shelf life.</p>
             </li>
             <li class="d-flex align-items-start mb-3 wow fadeInRight" data-wow-delay="600ms">
-              <img src="image/tick.png" alt="Check" class="me-3" style="width: 24px; height: 24px;">
+              <img src="image/tick.png" alt="Check" class="me-3" style="width: 24px; height: 24px;" loading="lazy">
               <p><span class="darkcolor">Sustainability:</span> We source our produce from local farmers, promoting ethical and sustainable practices.</p>
             </li>
             <li class="d-flex align-items-start mb-3 wow fadeInRight" data-wow-delay="700ms">
-              <img src="image/tick.png" alt="Check" class="me-3" style="width: 24px; height: 24px;">
+              <img src="image/tick.png" alt="Check" class="me-3" style="width: 24px; height: 24px;" loading="lazy">
               <p><span class="darkcolor">Customer Satisfaction:</span> We prioritize our customers' needs and strive to provide exceptional service.</p>
             </li>
             <li class="d-flex align-items-start mb-3 wow fadeInRight" data-wow-delay="800ms">
-              <img src="image/tick.png" alt="Check" class="me-3" style="width: 24px; height: 24px;">
+              <img src="image/tick.png" alt="Check" class="me-3" style="width: 24px; height: 24px;" loading="lazy">
               <p><span class="darkcolor">Quality Products:</span> We offer high-quality dehydrated vegetables that retain their nutritional value and flavor.</p>
             </li>
           </ul>
@@ -472,7 +473,7 @@ include 'layout/header-main.php'; ?>
                 <p class="bottom40">"DryVeggie products have transformed my cooking. The flavor and quality are unmatched, making it easy to create delicious and healthy dishes."</p>
               </div>
               <div class="testimonial-photo">
-                <img src="image/author.jpg" alt="Author Image">
+                <img src="image/author.jpg" alt="Author Image" loading="lazy">
               </div>
               <h4 class="darkcolor"><a href="#">Lea</a></h4>
             </div>
@@ -486,7 +487,7 @@ include 'layout/header-main.php'; ?>
                 <p class="bottom40">"I recommend DryVeggie to all my clients. Their dehydrated vegetables are a convenient and nutritious addition to any diet."</p>
               </div>
               <div class="testimonial-photo">
-                <img src="image/author1.jpg" alt="Author Image">
+                <img src="image/author1.jpg" alt="Author Image" loading="lazy">
               </div>
               <h4 class="darkcolor"><a href="#">Marie</a></h4>
             </div>
@@ -500,7 +501,7 @@ include 'layout/header-main.php'; ?>
                 <p class="bottom40">"DryVeggie's range of products is fantastic. I love how they maintain the fresh taste of vegetables, even in powdered form."</p>
               </div>
               <div class="testimonial-photo">
-                <img src="image/testi.jpg" alt="Author Image">
+                <img src="image/testi.jpg" alt="Author Image" loading="lazy">
               </div>
               <h4 class="darkcolor"><a href="#">Leo</a></h4>
             </div>
@@ -602,7 +603,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4">
         <div class="feature-box bg_light text-center p-4 wow fadeInUp" data-wow-delay="400ms">
           <div class="icon mb-3">
-            <img src="image/01.png" width="50" alt="Global Distribution Icon">
+            <img src="image/01.png" width="50" alt="Global Distribution Icon" loading="lazy">
           </div>
           <h5 class="feature-title text-success">Global Distribution</h5>
           <p class="feature-text">
@@ -615,7 +616,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4">
         <div class="feature-box middle-box text-white text-center p-5 wow fadeInUp" data-wow-delay="500ms">
           <div class="icon mb-3">
-            <img src="image/02.png" width="50" alt="R&D Icon">
+            <img src="image/02.webp" width="50" alt="R&D Icon" loading="lazy">
           </div>
           <h5 class="feature-title text-white">Product Development and<br>R&D</h5>
           <p class="feature-text text-white">
@@ -628,7 +629,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4">
         <div class="feature-box bg_light text-center p-4 wow fadeInUp" data-wow-delay="600ms">
           <div class="icon mb-3">
-            <img src="image/03.png" width="50" alt="Customized Blends Icon">
+            <img src="image/03.png" width="50" alt="Customized Blends Icon" loading="lazy">
           </div>
           <h5 class="feature-title text-success">Customized Blends</h5>
           <p class="feature-text">

@@ -43,7 +43,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-6 padding_bottom_half wow fadeInLeft" data-wow-delay="300ms">
             
-                <div class="image"><img alt="SEO" src="image/about-wa.jpg" class="square-img"></div>
+                <div class="image"><img alt="SEO" src="image/about-wa.jpg" class="square-img" loading="lazy"></div>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-6 padding_bottom_half text-md-start wow fadeInRight" data-wow-delay="600ms">
             

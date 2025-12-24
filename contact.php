@@ -50,7 +50,7 @@ include 'layout/header-page.php'; ?>
                         <span class="divider-center"></span>
                     </h2>
                     <div class="col-md-8 offset-md-2 bottom35">
-                        <p>Discover the superior quality of our Dehydrated Beetroot Powder. Connect with DryVeggie today for prompt and friendly support.</p>
+                        <p>Discover the superior quality of our Dehydrated Vegetables and Fruits. Connect with Dry Veggie today for prompt and friendly support.</p>
                     </div>
                 </div>
 
