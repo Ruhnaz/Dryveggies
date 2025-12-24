@@ -65,8 +65,8 @@
 
       <!-- Logo -->
       <a class="navbar-brand" href="index.php">
-        <img src="image/wkbg.png" alt="logo" class="logo-default" style="width: 218px;" loading="lazy">
-        <img src="image/wkbg.png" alt="logo" class="logo-scrolled" loading="lazy">
+        <img src="image/wkbg.png" alt="logo" class="logo-default" width="218" height="60" loading="lazy">
+        <img src="image/wkbg.png" alt="logo" class="logo-scrolled"  width="150" height="45" loading="lazy">
       </a>
 
       <!-- Navigation -->

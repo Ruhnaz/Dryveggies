@@ -38,7 +38,7 @@ include 'layout/header-main.php'; ?>
 <!--Some Services ends-->
   
 <!--Some Feature -->
-<section id="our-feature" class="single-feature padding_bottom padding_top_half mt-1 mt-lg-n4 mt-md-n3">
+<section id="our-feature" class="single-feature padding_bottom padding_top_half ">
     <div class="container">
         <div class="row d-flex align-items-center">
             <div class="col-lg-6 col-md-7 col-sm-7 text-sm-start text-center wow fadeInLeft" data-wow-delay="300ms">
@@ -50,7 +50,7 @@ include 'layout/header-main.php'; ?>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
                  
-                 <div class="image"><img alt="SEO" src="image/3404.jpg" class="square-img" loading="lazy"></div>
+                 <div class="image"><img alt="SEO" src="image/3404.webp" class="square-img"  width="800" height="800" loading="lazy"></div>
             </div>
         </div>
     </div>
@@ -616,7 +616,7 @@ include 'layout/header-main.php'; ?>
       <div class="col-lg-4">
         <div class="feature-box middle-box text-white text-center p-5 wow fadeInUp" data-wow-delay="500ms">
           <div class="icon mb-3">
-            <img src="image/02.png" width="50" alt="R&D Icon" loading="lazy">
+            <img src="image/02.webp" width="50" alt="R&D Icon" loading="lazy">
           </div>
           <h5 class="feature-title text-white">Product Development and<br>R&D</h5>
           <p class="feature-text text-white">

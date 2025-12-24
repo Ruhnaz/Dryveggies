@@ -46,7 +46,8 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 
             <!-- Logo -->
             <a class="navbar-brand" href="index.php">
-                <img src="image/wkbg.png" alt="logo" class="logo-default" style="width: 217px;" loading="lazy">
+                 <img src="image/wkbg.png" alt="logo" class="logo-default" style="width: 218px;" loading="lazy">
+                
                 <img src="image/wkbg.png" alt="logo" class="logo-scrolled" loading="lazy">
             </a>
 
