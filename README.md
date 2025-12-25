@@ -15,7 +15,7 @@ As part of a company project, I recreated website pages based on an existing/leg
 | Full Layout (Preview) 
 | :---: | :---: |
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="screenshots/dryveggies_page.png" style="width: 100%; display: block;">
+  <img src="screenshots/dryveggies_page.png" style="width: 50%;">
 </div>
 
 > Note: This project is owned by the organization/client.  
