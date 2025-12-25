@@ -13,7 +13,7 @@ As part of a company project, I recreated website pages based on an existing/leg
 
 <div>
   <img src="screenshots/dryveggies_page.png" width="49%" align="left" style="border-radius: 8px; margin-right: 2%;">
-  <img src="screenshots/single-product-page.png" width="49%" align="left" style="border-radius: 8px;">
+  <img src="screenshots/single-product-page.png" width="49%" align="right" style="border-radius: 8px;">
   <div style="clear: both;"></div>
   <p style="text-align: center; margin-top: 10px;">
     <strong>Left: Main Page | Right: Product Page</strong>
