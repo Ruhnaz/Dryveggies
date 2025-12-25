@@ -9,26 +9,16 @@ As part of a company project, I recreated website pages based on an existing/leg
 - Matched layout and structure from the old design
 - Ensured responsive behavior across devices
 - Updated HTML and CSS as required
-
 ## 🎨 Design Overview
 
-<div style="width: 100%; overflow: hidden;">
-
-<div style="width: 40%; float: left; background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-right: 2%;">
-  <img src="screenshots/dryveggies_page.png" style="width: 100%; display: block; border-radius: 8px;">
-  <p style="text-align: center; margin-top: 15px; font-weight: bold; color: #333;">🏠 Main Products Page</p>
+<div>
+  <img src="screenshots/dryveggies_page.png" width="49%" align="left" style="border-radius: 8px; margin-right: 2%;">
+  <img src="screenshots/single-product-page.png" width="49%" align="left" style="border-radius: 8px;">
+  <div style="clear: both;"></div>
+  <p style="text-align: center; margin-top: 10px;">
+    <strong>Left: Main Page | Right: Product Page</strong>
+  </p>
 </div>
-
-<div style="width: 40%; float: left; background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-left: 2%;">
-  <img src="screenshots/single-product-page.png" style="width: 100%; display: block; border-radius: 8px;">
-  <p style="text-align: center; margin-top: 15px; font-weight: bold; color: #333;">📦 Single Product Page</p>
-</div>
-
-<div style="clear: both;"></div>
-
-</div>
-
-
 
 > Note: This project is owned by the organization/client.  
 
