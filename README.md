@@ -13,10 +13,10 @@ As part of a company project, I recreated website pages based on an existing/leg
 
 <div>
   <img src="screenshots/dryveggies_page.png" width="49%" align="left" style="border-radius: 8px; margin-right: 2%;">
-  <div style="clear: both;">
+  
   <img src="screenshots/single-product-page.png" width="49%" align="right" style="border-radius: 8px;">
   </div>
-  
+  <div style="clear: both;">
 </div>
   
 
