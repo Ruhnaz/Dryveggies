@@ -16,10 +16,10 @@ As part of a company project, I recreated website pages based on an existing/leg
   <div style="clear: both;">
   <img src="screenshots/single-product-page.png" width="49%" align="right" style="border-radius: 8px;">
   </div>
-  <p style="text-align: center; margin-top: 10px;">
+  
+</div>
+<p style="text-align: center; margin-top: 10px;">
     <strong>Left: Main Page | Right: Product Page</strong>
   </p>
-</div>
-
 > Note: This project is owned by the organization/client.  
 
