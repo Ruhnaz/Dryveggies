@@ -10,22 +10,25 @@ As part of a company project, I recreated website pages based on an existing/leg
 - Ensured responsive behavior across devices
 - Updated HTML and CSS as required
 
-
 ## 🎨 Design Overview
 
-<div style="text-align: center;">
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; padding: 10px; vertical-align: top;">
+      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        <img src="screenshots/dryveggies_page.png" style="width: 100%; border-radius: 8px;">
+        <p style="text-align: center; margin-top: 15px; font-weight: bold; color: #333;">🏠 Main Products Page</p>
+      </div>
+    </td>
+    <td style="width: 50%; padding: 10px; vertical-align: top;">
+      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        <img src="screenshots/single-product-page.png" style="width: 100%; border-radius: 8px;">
+        <p style="text-align: center; margin-top: 15px; font-weight: bold; color: #333;">📦 Single Product Page</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<div style="display: inline-block; width: 30%; vertical-align: top; margin: 0 2.5%; background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  <img src="screenshots/dryveggies_page.png" style="width: 100%; border-radius: 8px;">
-  <p style="margin-top: 15px; font-weight: 600; color: #333;">Main Products Page</p>
-</div>
-
-<div style="display: inline-block; width: 45%; vertical-align: top; margin: 0 2.5%; background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  <img src="screenshots/single-product-page.png" style="width: 100%; border-radius: 8px;">
-  <p style="margin-top: 15px; font-weight: 600; color: #333;">Single Product Page</p>
-</div>
-
-</div>
 
 > Note: This project is owned by the organization/client.  
 
