@@ -17,7 +17,7 @@ As part of a company project, I recreated website pages based on an existing/leg
     <td width="50%" valign="top" style="padding: 15px;">
       <div style="background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <img src="screenshots/dryveggies_page.png" width="100%" style="border-radius: 6px;">
-        <p align="center" style="margin-top: 10px; margin-bottom: 0;"><strong>Main Products Page</strong></p>
+        <p align="center" style="margin-top: 10px; margin-bottom: 0;"><strong>Home Page</strong></p>
       </div>
     </td>
     <td width="50%" valign="top" style="padding: 15px;">
