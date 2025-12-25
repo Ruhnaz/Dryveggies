@@ -18,8 +18,5 @@ As part of a company project, I recreated website pages based on an existing/leg
   </div>
   
 </div>
-<p style="text-align: center; margin-top: 10px;">
-    <strong>Left: Main Page | Right: Product Page</strong>
-  </p>
-> Note: This project is owned by the organization/client.  
+  
 
