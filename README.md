@@ -12,14 +12,12 @@ As part of a company project, I recreated website pages based on an existing/leg
 
 ## 🎨 Design Overview
 
-| Full Layout (Preview) 
+
+## 🎨 Design Overview
+
+| Page View | Single Product View |
 | :---: | :---: |
-<div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px;">
-
-  <img src="screenshots/dryveggies_page.png" style="width: 50%; height:50%;">
-  <img src="screenshots/single-product-page.png" style="width: 50%; height:50%;">
-
-</div>
+| <img src="screenshots/dryveggies_page.png" width="90%"> | <img src="screenshots/single-product-page.png" width="90%"> |
 
 > Note: This project is owned by the organization/client.  
 
